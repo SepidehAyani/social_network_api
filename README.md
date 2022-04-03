@@ -35,10 +35,10 @@ Given a social network API:
 [![Project demo](assets/img/demo.png)](assets/img/demo.mov)
 
 ## Instructions
-`git clone https://github.com/SepidehAyani/social_network_api.git`
-`npm i`
-`npm start`
-Use your browser or an app like [Insomnia](https://insomnia.rest/) to test the REST API.
+- `git clone https://github.com/SepidehAyani/social_network_api.git`
+- `npm i`
+- `npm start`
+Note: Use your browser or an app like [Insomnia](https://insomnia.rest/) to test the REST API.
 Ensure that MongoDB and Express are installed on your computer.
 
 #### Languages and libraries used in this project:
