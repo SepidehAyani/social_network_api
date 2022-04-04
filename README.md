@@ -10,7 +10,6 @@ So that their website can handle large amounts of unstructured data.
 ## Table of Contents 
 1. [About the Project](#About-The-Project)
 1. [Project Links](#Project-Links)
-1. [Screenshots](#Screenshots)
 1. [Demo](#Demo)
 1. [Installation](#Installation)
 1. [Contribution Guidelines](#Contribution-Guidelines)
@@ -28,18 +27,15 @@ Given a social network API:
 ## Project Links
 [Repo Link](https://github.com/SepidehAyani/social_network_api) <br>
 
-## Screenshots
-![Project Preview](assets/img/overview.png)
-
 ## Demo
-[![Project demo](assets/img/demo.png)](assets/img/demo.mov)
+![Project demo](./assets/users.gif)
 
 ## Instructions
 - `git clone https://github.com/SepidehAyani/social_network_api.git`
 - `npm i`
 - `npm start`
-Note: Use your browser or an app like [Insomnia](https://insomnia.rest/) to test the REST API.
-Ensure that MongoDB and Express are installed on your computer.
+- Note: Use your browser or an app like [Insomnia](https://insomnia.rest/) to test the REST API.
+- Ensure that MongoDB and Express are installed on your computer.
 
 #### Languages and libraries used in this project:
 - <a href="https://nodejs.org/">Node.js</a>
